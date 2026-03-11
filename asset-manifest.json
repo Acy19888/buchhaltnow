@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/buchhaltnow/static/css/main.3a05ed19.css",
-    "main.js": "/buchhaltnow/static/js/main.b61710ac.js",
+    "main.js": "/buchhaltnow/static/js/main.fac7b9ef.js",
     "static/js/453.61cf4744.chunk.js": "/buchhaltnow/static/js/453.61cf4744.chunk.js",
     "index.html": "/buchhaltnow/index.html",
     "main.3a05ed19.css.map": "/buchhaltnow/static/css/main.3a05ed19.css.map",
-    "main.b61710ac.js.map": "/buchhaltnow/static/js/main.b61710ac.js.map",
+    "main.fac7b9ef.js.map": "/buchhaltnow/static/js/main.fac7b9ef.js.map",
     "453.61cf4744.chunk.js.map": "/buchhaltnow/static/js/453.61cf4744.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3a05ed19.css",
-    "static/js/main.b61710ac.js"
+    "static/js/main.fac7b9ef.js"
   ]
 }
